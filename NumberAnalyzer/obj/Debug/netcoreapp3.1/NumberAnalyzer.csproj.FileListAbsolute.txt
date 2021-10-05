@@ -1,0 +1,14 @@
+C:\Users\jmitchell11\OneDrive - Knex\repos\NumberAnalyzer\NumberAnalyzer\bin\Debug\netcoreapp3.1\NumberAnalyzer.exe
+C:\Users\jmitchell11\OneDrive - Knex\repos\NumberAnalyzer\NumberAnalyzer\bin\Debug\netcoreapp3.1\NumberAnalyzer.deps.json
+C:\Users\jmitchell11\OneDrive - Knex\repos\NumberAnalyzer\NumberAnalyzer\bin\Debug\netcoreapp3.1\NumberAnalyzer.runtimeconfig.json
+C:\Users\jmitchell11\OneDrive - Knex\repos\NumberAnalyzer\NumberAnalyzer\bin\Debug\netcoreapp3.1\NumberAnalyzer.runtimeconfig.dev.json
+C:\Users\jmitchell11\OneDrive - Knex\repos\NumberAnalyzer\NumberAnalyzer\bin\Debug\netcoreapp3.1\NumberAnalyzer.dll
+C:\Users\jmitchell11\OneDrive - Knex\repos\NumberAnalyzer\NumberAnalyzer\bin\Debug\netcoreapp3.1\NumberAnalyzer.pdb
+C:\Users\jmitchell11\OneDrive - Knex\repos\NumberAnalyzer\NumberAnalyzer\obj\Debug\netcoreapp3.1\NumberAnalyzer.csproj.AssemblyReference.cache
+C:\Users\jmitchell11\OneDrive - Knex\repos\NumberAnalyzer\NumberAnalyzer\obj\Debug\netcoreapp3.1\NumberAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmitchell11\OneDrive - Knex\repos\NumberAnalyzer\NumberAnalyzer\obj\Debug\netcoreapp3.1\NumberAnalyzer.AssemblyInfoInputs.cache
+C:\Users\jmitchell11\OneDrive - Knex\repos\NumberAnalyzer\NumberAnalyzer\obj\Debug\netcoreapp3.1\NumberAnalyzer.AssemblyInfo.cs
+C:\Users\jmitchell11\OneDrive - Knex\repos\NumberAnalyzer\NumberAnalyzer\obj\Debug\netcoreapp3.1\NumberAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\jmitchell11\OneDrive - Knex\repos\NumberAnalyzer\NumberAnalyzer\obj\Debug\netcoreapp3.1\NumberAnalyzer.dll
+C:\Users\jmitchell11\OneDrive - Knex\repos\NumberAnalyzer\NumberAnalyzer\obj\Debug\netcoreapp3.1\NumberAnalyzer.pdb
+C:\Users\jmitchell11\OneDrive - Knex\repos\NumberAnalyzer\NumberAnalyzer\obj\Debug\netcoreapp3.1\NumberAnalyzer.genruntimeconfig.cache
