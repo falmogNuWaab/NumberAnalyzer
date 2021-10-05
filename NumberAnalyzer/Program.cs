@@ -14,11 +14,11 @@ namespace NumberAnalyzer
             Console.WriteLine("Let's begin! I will need some info before we get started");
             Console.Write("What is your name? ");
             string uName = Console.ReadLine();
-            Console.WriteLine($"Nice to meet you, {uName}");
+            Console.WriteLine($"\nNice to meet you, {uName}");
             while (!cbit)
             {
                 bool thatsOdd = false;
-                Console.Write($"{uName} Enter a number between 1 and 100: ");
+                Console.Write($"\n{uName} Enter a number between 1 and 100: ");
                 input = Console.ReadLine();
                 if (!int.TryParse(input, out oPut)) //check if it's a number
                 {
@@ -39,7 +39,7 @@ namespace NumberAnalyzer
                     if(oPut>=100 || oPut <= 1)
                     {
                         Console.WriteLine($"Sorry, {uName}, but {oPut} must be between 1 and 100");
-                        Console.WriteLine("Do you want to try again?(y/n)"); //ask if the user would like to try again
+                        Console.WriteLine("Do you want to try again? (y/n)"); //ask if the user would like to try again
                         input = Console.ReadLine();
                         if (input.ToLower().StartsWith("n"))
                         {
@@ -72,7 +72,7 @@ namespace NumberAnalyzer
                 }
 
                 //This is the last check to see if there are other number to be repeatedly analyzed
-                Console.WriteLine($"Do you want to analyze any other numbers, {uName}?(y/n)"); //ask if the user would like to try again
+                Console.WriteLine($"\nDo you want to analyze any other numbers, {uName}? (y/n)"); //ask if the user would like to try again
                 input = Console.ReadLine();
                 if (input.ToLower().StartsWith("n"))
                 {
