@@ -28,12 +28,15 @@ namespace NumberAnalyzer
                     if (input.ToLower().StartsWith("n"))
                     {
                         cbit = true;
+                        Console.WriteLine($"It was a pleasure working with you today {uName}. Have a nice life.");
                         break;
-                    } else
+                    } 
+                    else
                     {
                         continue; //for all other responses we assume they do
                     }
-                } else
+                } 
+                else
                 {
                     //We know it's a number, lets make sure it's within 1-100
                     if(oPut>=100 || oPut <= 1)
@@ -44,6 +47,7 @@ namespace NumberAnalyzer
                         if (input.ToLower().StartsWith("n"))
                         {
                             cbit = true;
+                            Console.WriteLine($"It was a pleasure working with you today {uName}. Have a nice life.");
                             break;
                         }
                         else
@@ -77,6 +81,7 @@ namespace NumberAnalyzer
                 if (input.ToLower().StartsWith("n"))
                 {
                     cbit = true;
+                    Console.WriteLine($"It was a pleasure working with you today {uName}. Have a nice life.");
                 }
                 else
                 {
