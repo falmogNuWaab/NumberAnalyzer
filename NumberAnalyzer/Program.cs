@@ -15,6 +15,7 @@ namespace NumberAnalyzer
             Console.Write("What is your name? ");
             string uName = Console.ReadLine();
             Console.WriteLine($"\nNice to meet you, {uName}");
+
             while (!cbit)
             {
                 bool thatsOdd = false;
@@ -27,6 +28,7 @@ namespace NumberAnalyzer
                     input = Console.ReadLine();
                     if (input.ToLower().StartsWith("n"))
                     {
+                        //If the user enters a word that starts with the letter N we assume they do not want to try again
                         cbit = true;
                         Console.WriteLine($"It was a pleasure working with you today {uName}. Have a nice life.");
                         break;
@@ -46,6 +48,7 @@ namespace NumberAnalyzer
                         input = Console.ReadLine();
                         if (input.ToLower().StartsWith("n"))
                         {
+                            //If the user enters a word that starts with the letter N we assume they do not want to try again
                             cbit = true;
                             Console.WriteLine($"It was a pleasure working with you today {uName}. Have a nice life.");
                             break;
@@ -60,7 +63,7 @@ namespace NumberAnalyzer
                 if(oPut % 2 != 0) //Determine if the supplied number is odd or even
                 {
                     thatsOdd = true;
-                    Console.WriteLine($"{oPut}, Odd");
+                    Console.WriteLine($"{oPut} Odd");
                 } 
                 else if  ((oPut >= 2 && oPut<= 25) && thatsOdd == false)
                 {
@@ -80,6 +83,7 @@ namespace NumberAnalyzer
                 input = Console.ReadLine();
                 if (input.ToLower().StartsWith("n"))
                 {
+                    //If the user enters a word that starts with the letter N we assume they do not want to try again
                     cbit = true;
                     Console.WriteLine($"It was a pleasure working with you today {uName}. Have a nice life.");
                 }
