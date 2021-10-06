@@ -9,11 +9,12 @@ namespace NumberAnalyzer
             string input;
             int oPut;
             bool cbit = false;
+            string uName;
 
             Console.WriteLine("Welcome to the Number Analyzer where we Analyze numbers");
             Console.WriteLine("Let's begin! I will need some info before we get started");
             Console.Write("What is your name? ");
-            string uName = Console.ReadLine();
+            uName = Console.ReadLine();
             Console.WriteLine($"\nNice to meet you, {uName}");
 
             while (!cbit)
